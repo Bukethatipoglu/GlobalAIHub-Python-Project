@@ -1,4 +1,4 @@
-# GlobalAIHub-Python-Project (Pizza Order System)
+# GlobalAIHub-Python-Project (Pizza Ordering System)
 
 <b>! Projenin Çalıştırılabilmesi için aşağıdaki kütüphanelerin yüklenmesi gerekmektedir. ! </br></b>
 * Streamlit (pip install streamlit)
